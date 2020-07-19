@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362840134221",
+    "firebase_url": "https://polar-arcana-257211.firebaseio.com",
+    "project_id": "polar-arcana-257211",
+    "storage_bucket": "polar-arcana-257211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362840134221:android:733074e14612e13f988204",
+        "android_client_info": {
+          "package_name": "com.example.accelerometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362840134221-hf5caki4lvs1o1c2h9o7ld2lbjsq88ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accelerometer",
+            "certificate_hash": "c087e8ff614577207ee57a21fa435e5818ccb824"
+          }
+        },
+        {
+          "client_id": "362840134221-9564cmaadfihngnb12bn6iqudbk6ue81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZTUJVA0EOPKrlRodV1pXANekCNKxljA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362840134221-9564cmaadfihngnb12bn6iqudbk6ue81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
